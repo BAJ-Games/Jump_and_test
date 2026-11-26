@@ -7,7 +7,7 @@ const SPEED = 300.0
 const JUMP_VELOCITY = -400.0
 
 const TURN_DELAY = 2.0 / 60.0
-const IMPACT_DURATION = 5.0 / 60.0
+const IMPACT_DURATION = 0.1 / 60.0
 const MIN_AIRTIME = 15.0 / 60.0
 
 var turn_timer := 0.0
